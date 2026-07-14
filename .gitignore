@@ -1,0 +1,15 @@
+node_modules
+
+.env
+
+dist
+
+build
+
+.vscode
+
+coverage
+
+uploads
+
+.DS_Store
